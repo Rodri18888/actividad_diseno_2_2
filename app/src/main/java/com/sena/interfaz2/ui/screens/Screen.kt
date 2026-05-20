@@ -16,7 +16,6 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.sena.interfaz2.ui.components.CirculosImageComponent
 import com.sena.interfaz2.ui.sections.ButtonsSection
 import com.sena.interfaz2.ui.sections.ClipboardSection
 import com.sena.interfaz2.ui.sections.ProximasTareasSection
